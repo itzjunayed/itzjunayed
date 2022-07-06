@@ -1,7 +1,7 @@
 ## Yo, Myself Junayed 👋🤧
 
 - 📚 I’m currently studying Bachelor of *Computer Science and Engineering (CSE)* at **North South University**
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 - Favorite Programming Languages and Tools 🔭🚀🔥
   - C++
   - Java
