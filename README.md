@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN, DRF**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itzjunayed](https://github.com/itzjunayed)
-
 - 📫 How to reach me **junayed12sents@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
