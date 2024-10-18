@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Junayed</h1>
-<h3 align="center">Research Assistant | Web Developer | Educator</h3>
+<h3 align="center">Research Assistant | Full-Stack Developer | Educator</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=itzjunayed&abbreviated=true)
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **MERN, DRF**
+- 🌱 I’m currently learning **Flutter, NextJS**
 
 - 📫 How to reach me **junayed12sents@gmail.com**
 
